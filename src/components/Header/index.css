@@ -1,1 +1,8 @@
 /* Write your CSS code here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.each-item {
+  margin-right: 20px;
+}
